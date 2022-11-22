@@ -238,3 +238,10 @@ svg#map {
   max-height: 100vh;
   margin-top: -10px;
 }
+
+.top-left {
+  position: fixed;
+  left: 10px;
+  top: 5px;
+  font-weight: bolder;
+}
